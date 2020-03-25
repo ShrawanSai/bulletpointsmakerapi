@@ -1,5 +1,4 @@
-bert-extractive-summarizer==0.4.0
 Flask
 Flask-RESTful
-Flask-SQLAlchemy
+bert-extractive-summarizer==0.4.0
 uwsgi
